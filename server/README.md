@@ -1,0 +1,2 @@
+The server/ directory is used to register API and server handlers to your application.
+Nuxt automatically scans files inside these directories to register API and server handlers with Hot Module Replacement (HMR) support.

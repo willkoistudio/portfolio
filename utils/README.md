@@ -1,0 +1,2 @@
+Use the utils/ directory to auto-import your utility functions throughout your application.
+The main purpose of the utils/ directory is to allow a semantic distinction between your Vue composables and other auto-imported utility functions.
